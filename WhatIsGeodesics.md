@@ -5,5 +5,7 @@ More generally, in the presence of an affine connection,
 a geodesic is defined to be a curve whose tangent vectors remain parallel if they are transported along it.
 
 # Open intelligence
-##File formats 
+
+##File formats
+
 ##Geotagging 
