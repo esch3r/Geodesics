@@ -7,6 +7,11 @@ What exactly is Geodesy? Well, below this is what Wikipedia defines Geodesy as.
 
 > "Geodesy is the Earth science of accurately measuring and understanding Earth's geometric shape, orientation in space and gravitational field. The field also incorporates studies of how these properties change over time and equivalent measurements for other planets."
 
+## Models of the Earth
+What shape is the earth exactly? This is an interesting question which although seemly one would think theres an easy answer to it has perplexed scientists. Truth is there is no definite platonic solid which can fit the model for the earth with its surface included its really quiet rough like a rock hence the name geode. Nevertheless scientists still try to approximate the shape of the earth with using networks of survey markers placed around the earth. Some of these models include both the North American Datum of 1927 (NAD27) and World Geodetic System (WGS84)  both which reference the earth as an approximated ellisoid form. 
+
+## Surveying 
+
 
 ## Remote Sensing
 *[Youtube playlist on Remote Sensing](https://www.youtube.com/playlist?list=PL1Se2xIuNxEoF1kY6fONj9U0oycsERbmj)*. 
